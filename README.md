@@ -1,1 +1,1 @@
-# sgu26_csttnt
+# CƠ SỞ TRÍ TUỆ NHÂN TẠO

@@ -3,7 +3,7 @@
 # ex4_scientific2
 ## Nội dung bài
 Hiển thị 2 đồ thị sin(x), cos(x) trong khoảng $x \in \left[-\pi, \pi\right]$
-## Bài lam
+## Bài làm
 
 #%% md
 
@@ -53,4 +53,5 @@ plt.show()
 #%% md
 
 # Kết thúc
+
 
